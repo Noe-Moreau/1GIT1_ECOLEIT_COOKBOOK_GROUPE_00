@@ -18,3 +18,7 @@
 - Repos : 4 h
 ## Auteur
 Moreau Noé
+
+## Likes
+Bob : ***
+Marie : *****

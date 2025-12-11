@@ -21,3 +21,7 @@
 
 ## Auteur
 Moreau Noé
+
+## Likes
+François: **
+Gustave: ****
